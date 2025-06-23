@@ -1,6 +1,7 @@
 #requirements.tet
 snowflake-snowpark-python
 streamlit
+requests
 
 
 #name: app_environment
